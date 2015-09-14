@@ -4,6 +4,8 @@
 
 # Daily Activity Log to RSS
 
+[![Join the chat at https://gitter.im/joebew42/daily-activity-log-to-rss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/joebew42/daily-activity-log-to-rss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A web application that converts a [**Daily Activity Log**](https://github.com/joebew42/daily-activity-log)
 into a **RSS feed**
 
